@@ -60,3 +60,8 @@ sim.ussd("*556#", function(obj){
     // Handle Response
 })
 ```
+
+To test your sim run command on terminal after installation.
+```
+ensim auth_xxxxxxxx
+```
